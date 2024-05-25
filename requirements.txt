@@ -1,0 +1,4 @@
+discord.py
+os
+time
+load_dotenv
